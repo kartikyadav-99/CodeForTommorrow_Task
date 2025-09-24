@@ -1,6 +1,6 @@
 # React + Vite
 
-# React Card Component (API + Infinite Scroll)
+# React Card Component (API)
 
 This project is a simple React application that fetches data from an API and displays it as card components.  
 
@@ -12,8 +12,7 @@ This project is a simple React application that fetches data from an API and dis
 ## Installation & Setup
 1. Clone the repository  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-
+ https://github.com/kartikyadav-99/CodeForTommorrow_Task
 
 ##Author
 Kartik Yadav
