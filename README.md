@@ -11,8 +11,7 @@ This project is a simple React application that fetches data from an API and dis
 
 ## Installation & Setup
 1. Clone the repository  
-   ```bash
- https://github.com/kartikyadav-99/CodeForTommorrow_Task
+   ```bash https://github.com/kartikyadav-99/CodeForTommorrow_Task
 
 ##Author
 Kartik Yadav
