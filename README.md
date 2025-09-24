@@ -14,8 +14,7 @@ This project is a simple React application that fetches data from an API and dis
    ```bash
    https://github.com/kartikyadav-99/CodeForTommorrow_Task
 
-##Author
-Kartik Yadav
+Author: Kartik Yadav
 
 
 
