@@ -34,4 +34,3 @@ const UserData = () => {
 };
 
 export default UserData;
-//.slice(0, visibleCount)
